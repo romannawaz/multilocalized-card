@@ -4,6 +4,15 @@
   "newProjectRoot": "projects",
   "projects": {
     "card": {
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "es-PR": {
+            "translation": "src/locale/messages.es.xlf",
+            "baseHref": "es-PR/"
+          }
+        }
+      },
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -78,6 +87,9 @@
               "extractLicenses": false,
               "sourceMap": true,
               "namedChunks": true
+            },
+            "es": {
+              "localize": ["es-PR"]
             }
           },
           "defaultConfiguration": "production"
@@ -90,6 +102,9 @@
             },
             "development": {
               "browserTarget": "card:build:development"
+            },
+            "es": {
+              "browserTarget": "card:build:development,es"
             }
           },
           "defaultConfiguration": "development"
