@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2623656493656102023" datatype="html">
+        <source>Shiba Inu</source>
+        <target>Shiba Inu</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2754036076364583205" datatype="html">
+        <source>Dog Breed</source>
+        <target>Raza canina</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4572973192314294092" datatype="html">
+        <source>Photo of a Shiba Inu</source>
+        <target>Foto de un shiba inu</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4974488641960879782" datatype="html">
+        <source> The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan. A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was originally bred for hunting. </source>
+        <target> El Shiba Inu es el más pequeño de las seis razas originales y distintas de perros spitz de Japón. Un perro pequeño y ágil que se adapta muy bien a los terrenos montañosos, el Shiba Inu fue criado originalmente para la caza. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">14,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1619344176447657437" datatype="html">
+        <source>LIKE</source>
+        <target>COMO</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9219888125536520293" datatype="html">
+        <source>SHARE</source>
+        <target>COMPARTIR</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
