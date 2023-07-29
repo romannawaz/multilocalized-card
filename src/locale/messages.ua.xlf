@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2623656493656102023" datatype="html">
+        <source>Shiba Inu</source>
+        <target>Шиба Іну</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2754036076364583205" datatype="html">
+        <source>Dog Breed</source>
+        <target>Порода собаки</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4572973192314294092" datatype="html">
+        <source>Photo of a Shiba Inu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4974488641960879782" datatype="html">
+        <source> The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan. A small, agile dog that copes very well with mountainous terrain, the Shiba Inu was originally bred for hunting. </source>
+        <target> Шиба-іну — найменша з шести оригінальних і виразних японських порід шпіц. Маленька, спритна собака, яка дуже добре справляється з гірською місцевістю, шиба-іну спочатку була виведена для полювання. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">14,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1746299246987992234" datatype="html">
+        <source>Example of currency: </source>
+        <target>Приклад валюти: </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8370279848024885109" datatype="html">
+        <source>Just current time: </source>
+        <target>Просто поточна дата: </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1619344176447657437" datatype="html">
+        <source>LIKE</source>
+        <target>Подобається</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9219888125536520293" datatype="html">
+        <source>SHARE</source>
+        <target>Поділитись</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/products/page/components/product-card/product-card.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
