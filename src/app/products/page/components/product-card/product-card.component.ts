@@ -13,4 +13,6 @@ const Material = [MatCardModule, MatButtonModule];
   templateUrl: './product-card.component.html',
   styleUrls: ['./product-card.component.scss'],
 })
-export class ProductCardComponent {}
+export class ProductCardComponent {
+  date = Date.now();
+}
